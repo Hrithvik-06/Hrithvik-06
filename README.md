@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hrithvik-06
-- 👀 I’m interested in everything mainly in technical aspects
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in corporate and management
+- 🌱 I’m currently learning Java & Python
 - 💞️ I’m looking to collaborate with society
 - 📫 How to reach me DM or mail me @sacharyahrithvik@gmail.com
 
