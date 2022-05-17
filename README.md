@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hrithvik-06
 - 👀 I’m interested in corporate and management
-- 🌱 I’m currently learning Java & Python
-- 💞️ I’m looking to collaborate with society
+- 🌱 Dived deep into Java & Python
+- 💞️ I’m looking to collaborate and work as a freelancer
 - 📫 How to reach me DM or mail me @sacharyahrithvik@gmail.com
 
 <!---
